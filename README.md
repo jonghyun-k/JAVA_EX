@@ -1,2 +1,2 @@
 # JAVA_EX
-Space for practicing Java's Essential Example Files
+Space for practicing Java's Example Files
